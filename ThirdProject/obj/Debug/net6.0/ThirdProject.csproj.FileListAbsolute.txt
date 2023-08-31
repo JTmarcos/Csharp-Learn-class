@@ -1,0 +1,14 @@
+C:\Projects\csharp\ThirdProject\ThirdProject\bin\Debug\net6.0\ThirdProject.exe
+C:\Projects\csharp\ThirdProject\ThirdProject\bin\Debug\net6.0\ThirdProject.deps.json
+C:\Projects\csharp\ThirdProject\ThirdProject\bin\Debug\net6.0\ThirdProject.runtimeconfig.json
+C:\Projects\csharp\ThirdProject\ThirdProject\bin\Debug\net6.0\ThirdProject.dll
+C:\Projects\csharp\ThirdProject\ThirdProject\bin\Debug\net6.0\ThirdProject.pdb
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\ThirdProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\ThirdProject.AssemblyInfoInputs.cache
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\ThirdProject.AssemblyInfo.cs
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\ThirdProject.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\ThirdProject.dll
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\refint\ThirdProject.dll
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\ThirdProject.pdb
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\ThirdProject.genruntimeconfig.cache
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\ref\ThirdProject.dll

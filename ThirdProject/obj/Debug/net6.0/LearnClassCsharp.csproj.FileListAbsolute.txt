@@ -1,0 +1,14 @@
+C:\Projects\csharp\ThirdProject\ThirdProject\bin\Debug\net6.0\LearnClassCsharp.exe
+C:\Projects\csharp\ThirdProject\ThirdProject\bin\Debug\net6.0\LearnClassCsharp.deps.json
+C:\Projects\csharp\ThirdProject\ThirdProject\bin\Debug\net6.0\LearnClassCsharp.runtimeconfig.json
+C:\Projects\csharp\ThirdProject\ThirdProject\bin\Debug\net6.0\LearnClassCsharp.dll
+C:\Projects\csharp\ThirdProject\ThirdProject\bin\Debug\net6.0\LearnClassCsharp.pdb
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\LearnClassCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\LearnClassCsharp.AssemblyInfoInputs.cache
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\LearnClassCsharp.AssemblyInfo.cs
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\LearnClassCsharp.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\LearnClassCsharp.dll
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\refint\LearnClassCsharp.dll
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\LearnClassCsharp.pdb
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\LearnClassCsharp.genruntimeconfig.cache
+C:\Projects\csharp\ThirdProject\ThirdProject\obj\Debug\net6.0\ref\LearnClassCsharp.dll
